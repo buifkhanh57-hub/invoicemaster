@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+publish/
+artifacts/
+
+# IDE / editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Test / runtime output
+TestResults/
+*.tmp-*
+invoices-*.csv
+payments-*.csv
+reminder-*.txt
+
+# OS noise
+.DS_Store
+Thumbs.db
